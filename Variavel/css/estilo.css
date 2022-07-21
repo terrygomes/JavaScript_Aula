@@ -1,0 +1,12 @@
+*{
+    color: aliceblue;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+body{
+    background-color: rgb(3, 3, 3);
+    display:block;
+    margin: 20px auto;
+}
