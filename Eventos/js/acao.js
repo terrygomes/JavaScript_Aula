@@ -1,3 +1,4 @@
+function ligar(){
+        document.getElementById("curso").src = "img/acesa.png";
 
-
-   window.alert(window.document.title);
+}
