@@ -1,0 +1,17 @@
+*{
+    color: aliceblue;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1{
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(3,3,3);
+    display: block;
+    margin: 20px auto;
+}
